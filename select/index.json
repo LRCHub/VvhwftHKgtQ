@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Hand Of Blood",
+  "base_artist": "Bullet For My Valentine",
+  "createdAt": "2026-02-17T12:05:07.169949Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hand Of Blood",
+      "artist": "Bullet for My Valentine",
+      "has_synced": true,
+      "path": "select/01_Hand_Of_Blood_Bullet_for_My_Valentine.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hand of Blood",
+      "artist": "Bullet for My Valentine",
+      "has_synced": true,
+      "path": "select/02_Hand_of_Blood_Bullet_for_My_Valentine.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Live Medley: Hand of Blood / Room 409 / Hearts Burst Into Fire / Begging For Mercy / Riot",
+      "artist": "Bullet for My Valentine",
+      "has_synced": false,
+      "path": "select/03_Live_Medley__Hand_of_Blood___Room_409___Hearts_Burst_Into_Fire___Begging_For_Mer_Bullet_for_My_Valentine.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Live Medley: Hand of Blood \u0000 Room 409 \u0000 Hearts Burst Into Fire \u0000 Begging for Mercy \u0000 Riot",
+      "artist": "Bullet for My Valentine",
+      "has_synced": false,
+      "path": "select/04_Live_Medley__Hand_of_Blood_\u0000_Room_409_\u0000_Hearts_Burst_Into_Fire_\u0000_Begging_for_Mer_Bullet_for_My_Valentine.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hand Of Blood",
+      "artist": "Bullet For My Valentine",
+      "has_synced": true,
+      "path": "select/05_Hand_Of_Blood_Bullet_For_My_Valentine.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hand Of Blood",
+      "artist": "Bullet For My Valentine",
+      "has_synced": true,
+      "path": "select/06_Hand_Of_Blood_Bullet_For_My_Valentine.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hand of blood",
+      "artist": "Bullet for My Valentine",
+      "has_synced": true,
+      "path": "select/07_Hand_of_blood_Bullet_for_My_Valentine.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hand of Blood (Live)",
+      "artist": "Bullet for My Valentine",
+      "has_synced": false,
+      "path": "select/08_Hand_of_Blood_(Live)_Bullet_for_My_Valentine.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hand of Blood",
+      "artist": "Bullet For My Valentine",
+      "has_synced": true,
+      "path": "select/09_Hand_of_Blood_Bullet_For_My_Valentine.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hand of Blood",
+      "artist": "Bullet for My Valentine",
+      "has_synced": true,
+      "path": "select/10_Hand_of_Blood_Bullet_for_My_Valentine.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hand Of Blood",
+      "artist": "Bullet For My Valentine",
+      "has_synced": true,
+      "path": "select/11_Hand_Of_Blood_Bullet_For_My_Valentine.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Live Medley (Featuring Hand Of Blood, Room 409, Hearts Burst Into Fire, Begging For Mercy, Riot)",
+      "artist": "Bullet For My Valentine",
+      "has_synced": false,
+      "path": "select/12_Live_Medley_(Featuring_Hand_Of_Blood,_Room_409,_Hearts_Burst_Into_Fire,_Begging__Bullet_For_My_Valentine.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hand of Blood",
+      "artist": "Bullet for My Valentine",
+      "has_synced": false,
+      "path": "select/pl_01_Hand_of_Blood_Bullet_for_My_Valentine.txt"
+    }
+  ]
+}
